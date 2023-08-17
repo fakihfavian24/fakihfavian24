@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋 I'm Fakih.
 
 <!--
 **fakihfavian24/fakihfavian24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Front End Developer with experience in creating websites using the HTML, CSS and JavaScript programming languages with a mobile friendly interface
+
+<p align="left">
+<a href="https://github.com/fakihfavian24">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fakihfavian24&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fakihfavian24&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
